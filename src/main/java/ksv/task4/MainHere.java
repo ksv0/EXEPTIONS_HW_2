@@ -1,6 +1,6 @@
 package ksv.task4;
 
-public class ProgramTaskFour {
+public class MainHere {
     public static void main(String[] args) {
         ServicesTaskTwo p = new ServicesTaskTwo();
         try{
